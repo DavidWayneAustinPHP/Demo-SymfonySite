@@ -1,3 +1,7 @@
+Using NetBeans Version 11 to edit and push to GitHub.
+Found running symfony serve in GitBash terminal is better that running in the NetBean Terminal.
+
+
 Symfony Demo Application
 ========================
 
