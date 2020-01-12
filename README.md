@@ -1,6 +1,9 @@
 Using NetBeans Version 11 to edit and push to GitHub.
-Found running symfony serve in GitBash terminal is better that running in the NetBean Terminal.
+Run "symfony serve" in the GitBash terminal on Windows to run the website.
 
+URL: localhost:8000
+
+Using this test site to build some test sites.
 
 Symfony Demo Application
 ========================
